@@ -1,4 +1,4 @@
-# invoice
+# VueBlog
 
 ## Project setup
 ```
