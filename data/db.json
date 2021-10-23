@@ -1,0 +1,35 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "Welcome to my Blog",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "tags": ["webdev", "coding", "news"]
+    },
+    {
+      "id": 2,
+      "title": "Top 10 CSS Tricks",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "tags": ["webdev", "coding", "css"]
+    },
+    {
+      "title": "Web development at 2021",
+      "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "tags": ["html", "css", "webdev", "tech"],
+      "id": 3
+    },
+
+    {
+      "title": "Latest Web Technologies ",
+      "body": "For many people the differences between the internet and the web are not clear and in many cases in day to day conversations these terms are used interchangeably to mean the same thing. Therefore to help understand the impact of the web, it would also be helpful to understand how it differs from the internet which this essay will first explain. We will then explore the difficulties in which internet users had before the web, the solutions and opportunities the web made available on its release to the world, and what effect this had on its growth. The web is a programmed framework linking stored information, data and web pages on the internet. The web uses the established infrastructure of the internet on which to operate on, in a similar way in which a car uses a road.",
+      "tags": ["web", "technology", "news", "future", "trends"],
+      "id": 6
+    },
+    {
+      "title": "Recent Research",
+      "body": "The internet itself was spawned in the late 1960's from its predecessor, the Advanced Research Projects Agency Network or ARPANET. The ARPANET sponsored by the Defence Advanced Research Projects Agency (DARPA) as an experimental network system, made its first transmission in 1969 on October 29.",
+      "tags": ["research", "trend", "interest"],
+      "id": 8
+    }
+  ]
+}
